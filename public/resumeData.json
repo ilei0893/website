@@ -4,13 +4,13 @@
     "occupation": "Software Engineer",
     "description": "I have previous experience in developing full stack web applications and technologies I'm familiar with are PostgreSQL, Heroku, Express, and Ruby on Rails",
     "image": "profile.png",
-    "bio": "I'm a 19 year old developer and love to create things. When I'm not thinking about how I can top Elon Musk, I enjoy going to the gym, socializing with friends, and listening to music! ",
+    "bio": "I'm a 19 year old developer and I love to create things. When I'm not thinking about how I can top Elon Musk, I enjoy going to the gym, socializing with friends, and listening to music! ",
     "contactmessage": "For any questions or inquiries please contact me below.",
     "email": "ilei0893@gmail.com",
     "phone": "718-313-8873",
     "address": {
       "street": "5 Piave Ave",
-      "city": "New York City",
+      "city": "Staten Island",
       "state": "NY",
       "zip": "10305"
     },
@@ -36,7 +36,7 @@
         "school": "CUNY College of Staten Island",
         "degree": "Computer Science BS",
         "graduated": "Expected Winter 2021",
-        "description": "Current junior majoring in Computer Science. Relevant courses include: C++ Programming, Data Structures, Object-Oriented Software Design, Algorithms, Discrete Structures"
+        "description": "Current junior majoring in Computer Science. Relevant courses include: C++ Programming, Data Structures, Object-Oriented Software Design, Algorithms, and Discrete Structures."
       }
     ],
     "work": [
@@ -44,7 +44,7 @@
         "company": "Occupier",
         "title": "Software Engineer Intern",
         "years": "June 2020 - August 2020",
-        "description": "Contributed directly to web application software to develop new features for a Beta V1 launch. Wrote End-to-end and Unit tests using Cypress and Jest respectively, increasing testing suite by 20%. Collaborated with senior engineers on developing new features based off of Clubhouse.io to track user stories. Followed Test Driven Development practices to decrease time spent tracking and fixing bugs which allowed company to save $100,000"
+        "description": "Contributed directly to web application software to develop new features for a Beta V1 launch. Wrote End-to-end and Unit tests using Cypress and Jest respectively, increasing testing suite by 20%. Collaborated with senior engineers on developing new features based off of Clubhouse.io to track user stories. Followed Test Driven Development practices to decrease time spent tracking and fixing bugs which allowed company to save $100,000."
       }
     ],
     "skills": [
@@ -88,7 +88,7 @@
         "title": "Covid-19 Tracker",
         "category": "Accurate up-to-date statistics on the pandemic",
         "image": "covid.PNG",
-        "url": "https://ivanlei.com/Covid19Tracker/"
+        "url": "https://ilei0893.github.io/Covid19Tracker/"
       }
     ]
   },
