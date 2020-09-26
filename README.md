@@ -1,2 +1,2 @@
-## My Personal Website
-ivanlei.com
+## My personal Website
+Link: [ivanlei.com](https://ivanlei.com)
