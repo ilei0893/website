@@ -14,8 +14,8 @@
       "state": "NY",
       "zip": "10305"
     },
-    "website": "http://www.ivanlei.com",
-    "resumedownload": "http://ivanlei.com",
+    "website": "https://www.ivanlei.com",
+    "resumedownload": "https://ivanlei.com",
     "social": [
       {
         "name": "linkedin",
@@ -24,7 +24,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/ilei0893",
+        "url": "https://github.com/ilei0893",
         "className": "fa fa-github"
       }
     ]
