@@ -1,2 +1,2 @@
 ## My personal Website
-Link: [ivanlei.com](www.ivanlei.com)
+Link: [ivanlei.com](https://www.ivanlei.com)
