@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests the About section matches the snapshot 1`] = `
+<section
+  id="about"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="three columns"
+    >
+      <img
+        alt="Tim Baker Profile Pic"
+        className="profile-pic"
+      />
+    </div>
+    <div
+      className="nine columns main-col"
+    >
+      <h2>
+        About Me
+      </h2>
+      <p />
+      <div
+        className="row"
+      >
+        <div
+          className="columns contact-details"
+        >
+          <h2>
+            Contact Details
+          </h2>
+          <p
+            className="address"
+          >
+            <span />
+            <br />
+            <span />
+            <br />
+            <span />
+          </p>
+        </div>
+        <div
+          className="columns download"
+        >
+          <p>
+            <a
+              className="button"
+              href="https://github.com/ilei0893/website/blob/master/public/LeiIvanResume.pdf"
+            >
+              <i
+                className="fa fa-clipboard"
+              />
+              View Resume
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
