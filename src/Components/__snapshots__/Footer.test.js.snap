@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests the header section matches the snapshot 1`] = `
+<footer>
+  <div
+    id="go-top"
+  >
+    <a
+      className="smoothscroll"
+      href="#home"
+      title="Back to Top"
+    >
+      <i
+        className="icon-up-open"
+      />
+    </a>
+  </div>
+</footer>
+`;
