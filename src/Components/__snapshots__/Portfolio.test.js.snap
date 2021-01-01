@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests the portfolio section matches the snapshot 1`] = `
+<section
+  id="portfolio"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="twelve columns collapsed"
+    >
+      <h1>
+        Check Out Some of My Works.
+      </h1>
+      <div
+        className="bgrid-quarters s-bgrid-thirds cf"
+        id="portfolio-wrapper"
+      />
+    </div>
+  </div>
+</section>
+`;
