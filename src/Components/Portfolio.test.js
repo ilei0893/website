@@ -1,10 +1,10 @@
 import React from "react";
-import Contact from "./Contact.js";
+import Portfolio from "./Portfolio.js";
 import renderer from "react-test-renderer";
 
-describe("Tests the contact section", () => {
+describe("Tests the portfolio section", () => {
   it("matches the snapshot", () => {
-    const tree = renderer.create(<Contact />).toJSON();
+    const tree = renderer.create(<Portfolio />).toJSON();
     expect(tree).toMatchSnapshot();
   });
 });

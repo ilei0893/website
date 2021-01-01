@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Tests the About section matches the snapshot 1`] = `
+exports[`Tests the about section matches the snapshot 1`] = `
 <section
   id="about"
 >
