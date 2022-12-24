@@ -42,6 +42,16 @@
     "work": [
       {
         "company": "Occupier",
+        "title": "Software Engineer",
+        "years": "February 2022 - Current",
+        "description": "Refactored a key feature for a product-line team that prevented application wide outages. Created and implemented a time stamper integration between Shortcut and Heroku through the use of the Shortcut API, streamlining communication for Product Managers and Engineers. Revamped a notification system that was previously underutilized, resulting in increased clarity and usefulness for users."
+      },
+      {
+        "title": "Software Engineer Intern",
+        "years": "June 2021 - December 2021",
+        "description": "Developed a Design System to catalog and match components with the MaterialUI library, serving as the lead engineer for the project during my internship. Created comprehensive inventory of all components, including naming conventions and usage guidelines. Reduced development time by eliminating need to create custom components"
+      },
+      {
         "title": "Software Engineer Intern",
         "years": "June 2020 - August 2020",
         "description": "Contributed directly to web application software to develop new features for a Beta V1 launch. Wrote End-to-end and Unit tests using Cypress and Jest respectively. Collaborated with senior engineers on developing new features based off of Clubhouse.io to track user stories. Followed Test Driven Development practices to decrease time spent tracking and fixing bugs."
