@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "I have experience in developing full stack web applications using Ruby on Rails, React, Typescript, and Heroku",
     "image": "profile.png",
-    "bio": "I'm a 21 year old developer and I love to create things. I enjoy going to the gym, socializing with friends, and listening to music!",
+    "bio": "I'm a software engineer with four years of experience. I love solving problems and I enjoy going to the gym, socializing with friends, and listening to music!",
     "contactmessage": "For any questions or inquiries please contact me below.",
     "email": "ilei0893@gmail.com",
     "phone": "718-313-8873",
@@ -41,9 +41,15 @@
     ],
     "work": [
       {
+        "company": "Kasheesh",
+        "title": "Software Engineer",
+        "years": "June 2023 - Current",
+        "description": "Led and executed the full integration of Sardine’s fraud prevention and compliance platform into Kasheesh, which enabled end-to-end monitoring of transaction flows from payment initiation to fund capture across web, mobile, and browser extension platforms. Collaborated with another senior engineer on the overhaul of our onboarding experience to allow for a more seamless experience for 50,000+ users that resulted in a 4% conversion rate. Spearheaded the implementation of a Design System using View Components which eliminated redundant components by 75% and streamlined future development. Participated in annual tech debt cleanup initiatives focused on optimizing CI processes, successfully reducing CI times from ~15 minutes to 3-4 minutes—an improvement of up to 80%. Interfaced with multiple third-party APIs and webhooks from Treasury Prime, Plaid, and Stripe allowing for seamless card creation and swipe. Designed and implemented a scalable, idempotent transactional email system with Postmark to reliably deliver receipts, denials, and digital wallet confirmations"
+      },
+      {
         "company": "Occupier",
         "title": "Software Engineer",
-        "years": "February 2022 - Current",
+        "years": "February 2022 - May 2023",
         "description": "Refactored a key feature for a product-line team that prevented application wide outages. Created and implemented a time stamper integration between Shortcut and Heroku through the use of the Shortcut API, streamlining communication for Product Managers and Engineers. Revamped a notification system that was previously underutilized, resulting in increased clarity and usefulness for users."
       },
       {
@@ -55,32 +61,6 @@
         "title": "Software Engineer Intern",
         "years": "June 2020 - August 2020",
         "description": "Contributed directly to web application software to develop new features for a Beta V1 launch. Wrote End-to-end and Unit tests using Cypress and Jest respectively. Collaborated with senior engineers on developing new features based off of Clubhouse.io to track user stories. Followed Test Driven Development practices to decrease time spent tracking and fixing bugs."
-      }
-    ],
-    "skills": [
-      {
-        "name": "Git/Github",
-        "level": "85%"
-      },
-      {
-        "name": "Ruby",
-        "level": "75%"
-      },
-      {
-        "name": "Javascript",
-        "level": "85%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "85%"
-      },
-      {
-        "name": "C++",
-        "level": "70%"
-      },
-      {
-        "name": "Java",
-        "level": "75%"
       }
     ]
   },
